@@ -35,4 +35,5 @@ def print_report(book_path, num_words, chars_sorted_list):
     print("============= END ===============")
 
 
-main()
+if __name__ == "__main__":
+    main()
